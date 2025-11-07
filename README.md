@@ -13,6 +13,18 @@
 
 In computing, batch processing is the running of a software job in an [automated](https://en.wikipedia.org/wiki/Computer_Automation) and unattended way. A user schedules a job to run and then waits for a processing system to run it. Typically, a job is scheduled to run at a configured time of day or when an [event](https://en.wikipedia.org/wiki/Event_(computing)) occurs or when [computer resources](https://en.wikipedia.org/wiki/System_resource) are available.
 
+Batch applications are still critical in most organizations in large part because many common business processes are amenable to batch processing. While online systems can also function when manual intervention is not desired, they are not typically optimized to perform high-volume, repetitive tasks. Therefore, even new systems usually contain one or more batch applications for updating information at the end of the day, generating reports, printing documents, and other non-interactive tasks that must complete reliably within certain business deadlines.
+
+</br>
+
+![Bitmap Batch Converter](https://github.com/user-attachments/assets/bc491563-94c2-4c83-88bb-1d9ff0916371)
+
+</br>
+
+
+
+
+
 
 
 
