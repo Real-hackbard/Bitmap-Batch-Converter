@@ -37,7 +37,7 @@ The images can be processed individually or in batches.
 | [Graphics Interchange Format (GIF)](https://en.wikipedia.org/wiki/GIF)     | ColorReduction, DitherMode, Compress, Tranzparent, Monochrome, ColorPalette, Scale Drawer, Modified     | 
 | [Portable Network Graphics File (PNG)](https://en.wikipedia.org/wiki/PNG)     | CompressionLevel, Tranzparent, Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat     | 
 | [Targa Image File (TGA)](https://en.wikipedia.org/wiki/Truevision_TGA)     | Monochrome, ColorPalette, Scale Drawer, Modified, Tranzparent     | 
-| Icon (ICO)     | Zelle 2,2     | 
+| [Icon (ICO)](https://en.wikipedia.org/wiki/ICO_(file_format))     | SupportsPartialTransparency, Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
 
 
 
