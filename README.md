@@ -15,6 +15,8 @@ In computing, batch processing is the running of a software job in an [automated
 
 Batch applications are still critical in most organizations in large part because many common business processes are amenable to batch processing. While online systems can also function when manual intervention is not desired, they are not typically optimized to perform high-volume, repetitive tasks. Therefore, even new systems usually contain one or more batch applications for updating information at the end of the day, generating reports, printing documents, and other non-interactive tasks that must complete reliably within certain business deadlines.
 
+Some applications are amenable to flow processing, namely those that only need data from a single input at once (not totals, for instance): start the next step for each input as it completes the previous step. In this case flow processing lowers latency for individual inputs, allowing them to be completed without waiting for the entire batch to finish. However, many applications require data from all records, notably computations such as totals. In this case the entire batch must be completed before one has a usable result: partial results are not usable.
+
 </br>
 
 ![Bitmap Batch Converter](https://github.com/user-attachments/assets/bc491563-94c2-4c83-88bb-1d9ff0916371)
@@ -25,7 +27,17 @@ The images can be processed individually or in batches.
 
 # Supported formats:
 
-
+| Format | Options                            |
+| :-----------: | :----------- | 
+| Bitmap     | Zelle 1,2     | 
+| Windows Meta File (WMF)     | Zelle 2,2     | 
+| Enhanced Meta Files (EMF)     | Zelle 2,2     | 
+| Joint Photographic Experts Group (JPG/JPEG)     | Zelle 2,2     | 
+| Picture Exchange File (PCX)     | Zelle 2,2     | 
+| Graphics Interchange Format (GIF)     | Zelle 2,2     | 
+| Portable Network Graphics File (PNG)     | Zelle 2,2     | 
+| Targa Image File (TGA)     | Zelle 2,2     | 
+| Icon (ICO)     | Zelle 2,2     | 
 
 
 
