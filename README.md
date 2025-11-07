@@ -30,7 +30,7 @@ The images can be processed individually or in batches.
 | Format | Options                            |
 | :-----------: | :----------- | 
 | Bitmap     | Zelle 1,2     | 
-| Windows Meta File (WMF)     | Zelle 2,2     | 
+| Windows Meta File (WMF)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
 | Enhanced Meta Files (EMF)     | Zelle 2,2     | 
 | Joint Photographic Experts Group (JPG/JPEG)     | Zelle 2,2     | 
 | Picture Exchange File (PCX)     | Zelle 2,2     | 
