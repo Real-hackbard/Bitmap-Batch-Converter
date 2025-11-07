@@ -29,8 +29,8 @@ The images can be processed individually or in batches.
 
 | Format | Options                            |
 | :-----------: | :----------- | 
-| [Bitmap](https://en.wikipedia.org/wiki/BMP_file_format)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
-| Windows Meta File (WMF)     |  Zeile    | 
+| [Bitmap (BMP)](https://en.wikipedia.org/wiki/BMP_file_format)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
+| [Windows Meta File (WMF)](https://en.wikipedia.org/wiki/Windows_Metafile)     |  Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent    | 
 | Enhanced Meta Files (EMF)     | Zelle 2,2     | 
 | Joint Photographic Experts Group (JPG/JPEG)     | Zelle 2,2     | 
 | Picture Exchange File (PCX)     | Zelle 2,2     | 
