@@ -21,6 +21,9 @@ Batch applications are still critical in most organizations in large part becaus
 
 </br>
 
+The images can be processed individually or in batches.
+
+# Supported formats:
 
 
 
