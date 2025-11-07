@@ -36,7 +36,7 @@ The images can be processed individually or in batches.
 | [Picture Exchange File (PCX)](https://en.wikipedia.org/wiki/PCX)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
 | [Graphics Interchange Format (GIF)](https://en.wikipedia.org/wiki/GIF)     | ColorReduction, DitherMode, Compress, Tranzparent, Monochrome, ColorPalette, Scale Drawer, Modified     | 
 | [Portable Network Graphics File (PNG)](https://en.wikipedia.org/wiki/PNG)     | CompressionLevel, Tranzparent, Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat     | 
-| Targa Image File (TGA)     | Zelle 2,2     | 
+| [Targa Image File (TGA)](https://en.wikipedia.org/wiki/Truevision_TGA)     | Monochrome, ColorPalette, Scale Drawer, Modified, Tranzparent     | 
 | Icon (ICO)     | Zelle 2,2     | 
 
 
