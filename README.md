@@ -44,7 +44,7 @@ The images can be processed individually or in batches.
 ### Software compatibility:
 Many image formats are native to one specific graphics application and are not offered as an export option in other software, due to proprietary considerations. An example of this is Adobe Photoshop's native PSD-format (Prevention of Significant Deterioration), which cannot be opened in less sophisticated programs for image viewing or editing, such as [Microsoft Paint](https://en.wikipedia.org/wiki/Microsoft_Paint). Most image editing software is capable of importing and exporting in a variety of formats though, and a number of dedicated image converters exist.
 
-### Quality loss;
+### Quality loss:
 Like any [resampling](https://en.wikipedia.org/wiki/Image_scaling) operation, changing image size and [bit depth](https://en.wikipedia.org/wiki/Color_depth) are lossy in all cases of [downsampling](https://en.wikipedia.org/wiki/Downsampling_(signal_processing)), such as 30-bit to 24-bit or 24-bit to 8-bit [palette-based](https://en.wikipedia.org/wiki/Palette_(computing)) images. While increasing bit depth is usually lossless, increasing image size can introduce [aliasing](https://en.wikipedia.org/wiki/Aliasing) or other undesired artifacts.
 
 
