@@ -34,7 +34,7 @@ The images can be processed individually or in batches.
 | [Enhanced Meta Files (EMF)](https://en.wikipedia.org/wiki/Windows_Metafile)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
 | [Joint Photographic Experts Group (JPG/JPEG)](https://en.wikipedia.org/wiki/JPEG)     | Grayscale, Smoothing, Modified, ProgressiveDisplay, Compress, Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
 | [Picture Exchange File (PCX)](https://en.wikipedia.org/wiki/PCX)     | Monochrome, ColorPalette, Scale Drawer, Modified, PixelFormat, Tranzparent     | 
-| Graphics Interchange Format (GIF)     | Zelle 2,2     | 
+| [Graphics Interchange Format (GIF)](https://en.wikipedia.org/wiki/GIF)     | ColorReduction, DitherMode, Compress, Tranzparent, Monochrome, ColorPalette, Scale Drawer, Modified     | 
 | Portable Network Graphics File (PNG)     | Zelle 2,2     | 
 | Targa Image File (TGA)     | Zelle 2,2     | 
 | Icon (ICO)     | Zelle 2,2     | 
